@@ -1,3 +1,11 @@
+
+## Instructions to generate assignment R plots
+
+1. Open the associated .R file in R or Rstudio (Rstudio recommended!)
+2. Source the file. This takes a few minutes to complete, so please be patient.3. The script should automatically download the required data, create the plot and export it in PNG format without any additional steps from you. 
+
+
+---
 ## Introduction
 
 This assignment uses data from
